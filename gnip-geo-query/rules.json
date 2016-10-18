@@ -1,0 +1,10 @@
+"rules":
+  [
+    {
+        "value":"cow"
+    },
+    {
+        "value":"dog",
+        "tag":"pets"
+    }
+  ]

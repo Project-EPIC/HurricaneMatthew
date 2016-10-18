@@ -1,0 +1,12 @@
+#These attributes combine to define a Historical Job.
+job:
+  #These will change from request to request.
+  title: HurricaneMatthewGeoQuery_v1
+  from_date: 201608010000   #August 1, 2016
+  to_date:   201610270000   #October 27, 2016
+
+  #These are 'static' values (more or less).
+  streamType: track_v2
+
+#File with YAML-formatted rules.
+rules_file: ./rules.json
