@@ -1,10 +1,54 @@
-"rules":
-  [
-    {
-        "value":"cow"
+[
+    {   
+        "value":"hurricane OR ouragan",
+        "tag"  :"hurricane"
     },
     {
-        "value":"dog",
-        "tag":"pets"
+        "value":"siklón",
+        "tag":"siklon"
+    }, 
+    {   
+        "value":"haiti",
+        "tag"  :"haiti"
+    },
+    {
+        "value":"hurricanematthew OR matthew",
+        "tag":"matthew"
+    },
+    {
+        "value":"ouraganmathieu OR mathieu",
+        "tag":"mathieu"
+    },
+    {
+        "value":"matthewhaiti",
+        "tag":"matthewhaiti"
+    },
+    {
+        "value":"(matye ayiti) OR matyeayiti",
+        "tag":"matthew"
+    },
+    {
+        "value":"port salut",
+        "tag":"salut"
+    },
+    {
+        "value":"les cayes",
+        "tag":"cayes"
+    },
+    {
+        "value":"jeremie OR jérémie",
+        "tag":"jeremie"
+    },
+    {
+        "value":"(pray for haiti) OR prayforhaiti OR pray4haiti",
+        "tag":"prayforhaiti"
+    },
+    {
+        "value":"jeremie OR jérémie",
+        "tag":"jeremie"
+    },
+    {
+        "value":"(tiburon penninsula) or tiburonpenninsula OR (península de tiburón)",
+        "tag":"tiburonpenninsula"
     }
-  ]
+]
