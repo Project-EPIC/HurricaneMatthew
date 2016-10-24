@@ -1,10 +1,70 @@
-"rules":
-  [
-    {
-        "value":"cow"
+[
+    {   
+        "value":"hurricane OR ouragan",
+        "tag"  :"hurricane"
     },
     {
-        "value":"dog",
-        "tag":"pets"
+        "value":"siklón",
+        "tag":"siklon"
+    }, 
+    {   
+        "value":"haiti",
+        "tag"  :"haiti"
+    },
+    {
+        "value":"hurricanematthew OR matthew",
+        "tag":"matthew"
+    },
+    {
+        "value":"ouraganmathieu OR mathieu",
+        "tag":"mathieu"
+    },
+    {
+        "value":"matthewhaiti",
+        "tag":"matthewhaiti"
+    },
+    {
+        "value":"(matye ayiti) OR matyeayiti",
+        "tag":"matthew"
+    },
+    {
+        "value":"port salut",
+        "tag":"salut"
+    },
+    {
+        "value":"les cayes",
+        "tag":"cayes"
+    },
+    {
+        "value":"jeremie OR jérémie",
+        "tag":"jeremie"
+    },
+    {
+        "value":"(pray for haiti) OR prayforhaiti OR pray4haiti",
+        "tag":"prayforhaiti"
+    },
+    {
+        "value":"jeremie OR jérémie",
+        "tag":"jeremie"
+    },
+    {
+        "value":"(tiburon penninsula) OR tiburonpenninsula OR (península de tiburón)",
+        "tag":"tiburonpenninsula"
+    },
+    {
+        "value":"bahamas OR jamaica OR cuba",
+        "tag":"bahamas_jamaica_cuba"
+    },
+    {
+        "value":"(pray for florida) OR prayforflorida OR pray4florida",
+        "tag":"prayforflorida"
+    },
+    {
+        "value":"flwx OR ncwx OR scwx OR gawx OR vawx",
+        "tag":"state_wx"
+    },
+    {
+        "value":"invest97l",
+        "tag":"invest97l"
     }
-  ]
+]
