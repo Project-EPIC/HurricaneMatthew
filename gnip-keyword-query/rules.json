@@ -48,7 +48,23 @@
         "tag":"jeremie"
     },
     {
-        "value":"(tiburon penninsula) or tiburonpenninsula OR (península de tiburón)",
+        "value":"(tiburon penninsula) OR tiburonpenninsula OR (península de tiburón)",
         "tag":"tiburonpenninsula"
+    },
+    {
+        "value":"bahamas OR jamaica OR cuba",
+        "tag":"bahamas_jamaica_cuba"
+    },
+    {
+        "value":"(pray for florida) OR prayforflorida OR pray4florida",
+        "tag":"prayforflorida"
+    },
+    {
+        "value":"flwx OR ncwx OR scwx OR gawx OR vawx",
+        "tag":"state_wx"
+    },
+    {
+        "value":"invest97l",
+        "tag":"invest97l"
     }
 ]
