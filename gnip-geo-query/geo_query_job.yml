@@ -1,6 +1,0 @@
-title: HurricaneMatthewGeoQuery_NonWindSwath_1839
-from_date: '201608010000'   #August 1, 2016
-to_date:   '201610220000'   #October 27, 2016
-
-# File with JSON formatted 
-rules_file: nw_rules_1839.json

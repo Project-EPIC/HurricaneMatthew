@@ -1,6 +1,0 @@
-title: HurricaneMatthewKeywordQuery_v1
-from_date: "201609250000"   # September 25, 2016
-to_date:   "201610220000"   # October 22, 2016
-
-#File with YAML-formatted rules.
-rules_file: ./rules.json
